@@ -93,7 +93,7 @@ To set up the project, follow these steps:
 
 2. Install the required R packages:
     ```R
-    install.packages(c("dplyr", "ggplot2", "readr", "stargazer"))
+    install.packages(c("dplyr", "ggplot2", "readr", "stargazer", "readxl"))
     ```
 
 ## Usage
